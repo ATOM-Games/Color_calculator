@@ -1,0 +1,15 @@
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\obj\x86\Debug\Colorito.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\obj\x86\Debug\Colorito.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\obj\x86\Debug\Colorito.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\bin\Debug\Colorito.exe
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\bin\Debug\Colorito.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\obj\x86\Debug\Colorito.exe
+C:\Users\user\AppData\Local\Temporary Projects\Colorito\obj\x86\Debug\Colorito.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.exe
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\bin\Debug\Colorito.exe
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\bin\Debug\Colorito.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Colorito\Colorito\obj\x86\Debug\Colorito.Form2.resources
